@@ -1,6 +1,7 @@
 # agerman77.HBase.Client
 
 Project Name: agerman77.HBase.Client
+
 Dependency: Microsoft.HBase.Client
 
 Description:
