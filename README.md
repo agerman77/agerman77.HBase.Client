@@ -1,4 +1,4 @@
-# agerman77.HBase.Client
+# agerman77.HBase.Client (C# .Net Client Library)
 
 Project Name: agerman77.HBase.Client
 
